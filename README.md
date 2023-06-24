@@ -17,4 +17,4 @@ We should never stop learning and always try new things. We should be courageous
 <a href="https://www.instagram.com/_.paaru/" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=32323&format=png" height="30" /></a>
 <a href="https://www.linkedin.com/in/parvathy-vijayan-521723219" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=13930&format=png" height="30" /></a>
 <a href="https://www.youtube.com/channel/UCeuFQD_GmPFCNWxIHFcOHmg" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=19318&format=png" height="30" /></a>
-<a href="discordapp.com/users/765890287498166282" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=30998&format=png" height="30" /></a>
+<a href="https://www.discordapp.com/users/765890287498166282" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=30998&format=png" height="30" /></a>
