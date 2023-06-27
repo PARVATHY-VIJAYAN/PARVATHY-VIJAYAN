@@ -4,7 +4,7 @@
 <h5>About me</h5>
 <p>My name is Parvathy Vijayan from India. I am pursuing Master of Computer Application at Amrita Vishwa Vidyapeetham, Amrita  University where I completed my bachelors in Computer Application. Not only am I enthusiastic about the subject in which I graduated, but I am also drawn to artistic pursuits like painting, dancing, and so on. Throughout my school and these college years, I keep on learning something new. 
 
-  <i>We should never stop learning and always try new things. We should be courageous and never be afraid to go the extra mile.</i>
+  <i>We should be courageous and never be afraid to go extra mile. Never Stop Learning.🤍</i>
 </p>
 <hr>
 
