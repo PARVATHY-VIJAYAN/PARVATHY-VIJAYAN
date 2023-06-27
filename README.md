@@ -10,7 +10,7 @@ We should never stop learning and always try new things. We should be courageous
 <h5>My github status</h5>
 <div class="row">
 <img src="https://github-readme-stats.vercel.app/api?username=PARVATHY-VIJAYAN&show_icons=true&theme=transparent" width="440">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PARVATHY-VIJAYAN&layout=donut&theme=transparent" width="290">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PARVATHY-VIJAYAN&layout=donut&theme=transparent" width="295">
 </div>
 <hr>
 
