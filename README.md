@@ -13,9 +13,27 @@ We should never stop learning and always try new things. We should be courageous
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PARVATHY-VIJAYAN&layout=donut&theme=transparent" width="295">
 </div>
 <hr>
+<h6>Languages and Tools:</h6>
+<a href="" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=shQTXiDQiQVR&format=png" height="30" /></a>
+<a href="" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=TpULddJc4gTh&format=png" height="30" /></a>
+<a href="" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=Pd2x9GWu9ovX&format=png" height="30" /></a>
+<a href="" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=CLvQeiwFpit4&format=png" height="30" /></a>
+<a href="" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=l75OEUJkPAk4&format=png" height="30" /></a>
+<a href="" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=9nLaR5KFGjN0&format=png" height="30" /></a>
+<a href="" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=mhwmyz1eu7T5&format=png" height="30" /></a>
+<a href="" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=1LAX3PYMg2iA&format=png" height="30" /></a>
+<a href="" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=v8RpPQUwv0N8&format=png" height="30" /></a>
+<a href="" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=pKaVdzbCJGgA&format=png" height="30" /></a>
+<a href="" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=108784&format=png" height="30" /></a>
+<a href="" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=21278&format=png" height="30" /></a>
+<a href="" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=J0SgMWzAxqFj&format=png" height="30" /></a>
+<a href="" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=84710&format=png" height="30" /></a>
 
-<h6>Find me around all the web:</h6>
+
+<h6>Find me in:</h6>
 <a href="https://www.instagram.com/_.paaru/" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=32323&format=png" height="30" /></a>
 <a href="https://www.linkedin.com/in/parvathy-vijayan-521723219" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=13930&format=png" height="30" /></a>
 <a href="https://www.youtube.com/channel/UCeuFQD_GmPFCNWxIHFcOHmg" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=19318&format=png" height="30" /></a>
 <a href="https://www.discordapp.com/users/765890287498166282" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=30998&format=png" height="30" /></a>
+<a href="https://stackoverflow.com/users/21691901/parvathy-vijayan" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=13955&format=png" height="30" /></a>
+
