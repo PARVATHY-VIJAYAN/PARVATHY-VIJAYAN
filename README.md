@@ -29,6 +29,9 @@
 <a href="" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=108784&format=png" height="30" /></a>
 <a href="" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=21278&format=png" height="30" /></a>
 <a href="" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=J0SgMWzAxqFj&format=png" height="30" /></a>
+<a href="" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=lOqoeP2Zy02f&format=png" height="30" /></a>
+<a href="" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=xSkewUSqtErH&format=png" height="30" /></a>
+<a href="" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=aR9CXyMagKIS&format=png" height="30" /></a>
 <a href="" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=84710&format=png" height="30" /></a>
 
 
